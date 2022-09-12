@@ -858,18 +858,6 @@ header .container .icon:hover .mega-menu {
     animation: pop-up 3s linear forwards infinite;
 }
 
-.app .container::after {
-    content: "";
-    background-color: #f0f2f63b;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    position: absolute;
-    right: 0px;
-    bottom: 0;
-    animation: pop-up 10s linear forwards infinite;
-}
-
 .app .container .info h1 {
     font-size: 50px;
     color: white;
